@@ -2,13 +2,25 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: false
+server: false
+lsi: false
+markdown: rdiscount
+pygments: true
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md","lib", "blog.rb", "Capfile", "config", "log", "tmp"]
 highlighter: pygments
+destination: public
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Marvtech
+
+paginate: 10
+category_dir: topics
+category_title_prefix:
+
+title : Marv
 tagline: Manan Sharma's Blog
 author :
   name : Manan Sharma
