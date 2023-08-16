@@ -72,6 +72,7 @@ I got into coding back in college. I was in need of a website, and I didn’t ha
 Then, I wanted to change some layout and design aspects of the site.
 
 > “Oh shit”, I’m going to need to touch the * gasp * Code”
+>
 > ***me before coding anything ever***
 
 This is where my journey began.
@@ -83,6 +84,7 @@ Once you get over an initial “setup” phase, the real learning and aha moment
 I started simple with a dead-simple approach.
 
 > “what happens when I change this?”
+>
 > ***me learning to code step by step***
 
 An example of my thought process when starting out flowed something like this:
@@ -119,3 +121,5 @@ There are tons and tons of resources and people out there that would be happy to
 I did a lot of this troubleshooting on my own. Looking back, I wish I had started reaching out for a second set of eyes sooner. Don’t be me. Swallow your pride and ask for help when you need it!
 
 ## You can do it
+
+[Source](https://davidwells.io/blog/practical-advice-on-learning-to-code)
